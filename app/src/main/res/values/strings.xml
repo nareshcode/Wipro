@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">WiproExercise</string>
+    <string name="no_data">No data</string>
+    <string name="no_interner_conn">No Internet Connection. Please try again.</string>
 </resources>
